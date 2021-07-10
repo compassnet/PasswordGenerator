@@ -3,7 +3,7 @@
 
 """
 Password Generator - A program that generates weak and strong passwords
-Copyright (C) 2020 Compass 
+Copyright (C) 2021 Compass 
 Websites:
     https://8kun.top/slackware/
     https://github.com/compassnet
